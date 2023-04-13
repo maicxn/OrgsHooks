@@ -7,5 +7,5 @@ Projeto React Native: Utilizando e criando Hooks.
 
 Neste projeto iremos fazer a tela Home do e-commerce de produtos naturais Orgs. Nessa tela listaremos os produtores de forma estática.
 
-![Orgs](/src/assets/untitled.gif)
+<img src="/src/assets/untitled.gif" width="300" />
 
